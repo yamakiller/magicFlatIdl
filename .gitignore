@@ -1,0 +1,4 @@
+out/*
+bin/*
+obj/
+obj/Debug/net5.0/
